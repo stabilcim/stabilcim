@@ -7,10 +7,8 @@
 <br> </br>
 
  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Bildi%C4%9Fim%27s+%26+Diller%27s" alt="Typing SVG" /></h2>
- <h2 align="center">
  <img src="https://skillicons.dev/icons?i=cs,js,ts,lua,html,css,nodejs,mysql,sqlite,mongo,redis&theme=dark" />
  </h2>
-  <h2 align="center">
  <img src="https://skillicons.dev/icons?i=nest,dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark" />
   </h2>
  
