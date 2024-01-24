@@ -9,19 +9,12 @@
  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Bildi%C4%9Fim%27s+%26+Diller%27s" alt="Typing SVG" /></h2>
   <h2 align="center">
 
- <img src="https://skillicons.dev/icons?i=cjs,ts,html,css,nodejs,mysql,mongo&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=cjs,ts,html,css,nodejs,mongo&theme=dark" />
  </h2>
   <h2 align="center">
 
- <img src="https://skillicons.dev/icons?i=gitlab,powershell,vscode,visualstudio,atom&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=powershell,vscode,visualstudio&theme=dark" />
   </h2>
- 
- 
-  <h2 align="center">
- <img align="center" alt="Yarn" width="40px" src="https://cdn.discordapp.com/emojis/1077712529301721149.png?size=128&quality=lossless" />
- <img align="center" alt="ChartJS" width="40px" src="https://cdn.discordapp.com/emojis/1077714784335700058.png?size=128&quality=lossless" />
- <img align="center" alt="Json" width="40px" src="https://cdn.discordapp.com/emojis/1077716034234097744.webp?size=128&quality=lossless" />
- </h2>
 </br>
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
